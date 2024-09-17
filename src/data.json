@@ -1,0 +1,44 @@
+{
+    "UzbekFoods": [
+      {
+        "name": "Plov",
+        "img": "https://bogatyr.club/uploads/posts/2024-03/1710344859_bogatyr-club-1mqz-p-plov-vostochnii-11.jpg",
+        "price": 10,
+        "desc": "Osh - guruch, go‘sht va sabzavotlardan tayyorlanadigan an’anaviy o‘zbek taomi, odatda ziravorlar bilan tayyorlanadi."
+      },
+      {
+        "name": "Samsa",
+        "img": "https://bogatyr.club/uploads/posts/2023-06/1687479366_bogatyr-club-p-dzhizakskaya-samsa-foni-vkontakte-21.jpg",
+        "price": 3,
+        "desc": "Samsa - go‘sht, piyoz va ziravorlar bilan to‘ldirilgan va tandirda pishiriladigan qizdirilgan pirog."
+      }
+    ],
+    "TurkishFoods": [
+      {
+        "name": "Kebap",
+        "img": "https://steemitimages.com/p/46aP2QbqUqBqsCvRcwtkrRZco97RpQqBJ6hnJTZKWcKWuHXe8rBPq6HGrC1cwndfNumC3ViG72R9XBwqWRPUPLaNfN94?format=match&mode=fit&width=1280",
+        "price": 12,
+        "desc": "Kabob - go‘shtdan tayyorlangan taom, odatda guruch, non va sabzavotlar bilan xizmat qilinadi."
+      },
+      {
+        "name": "Baklava",
+        "img": "https://100foto.club/uploads/posts/2022-06/1655920657_13-100foto-club-p-baklava-i-pakhlava-28.jpg",
+        "price": 5,
+        "desc": "Baklava - qat-qat filo xamiri, yong‘oq va sirop yoki asal bilan tayyorlanadigan shirin pishiriq."
+      }
+    ],
+    "UygurFoods": [
+      {
+        "name": "Dapanji",
+        "img": "https://pbs.twimg.com/media/CQfXPnqUEAALSw6.jpg",
+        "price": 15,
+        "desc": "Dapanji - tovuq, kartoshka va sabzavotlardan tayyorlanadigan, achchiq sousda pishiriladigan mashhur uyg‘ur taomi."
+      },
+      {
+        "name": "Laghman",
+        "img": "https://avatars.mds.yandex.net/i?id=cf777f8d35b425d2d29b59a9b2ee44199fa58a2c-9867663-images-thumbs&n=13",
+        "price": 9,
+        "desc": "Laghman - uyg‘ur oshxonasidagi mazali noodle taomi, go‘sht va sabzavotlar bilan xizmat qilinadi."
+      }
+    ]
+  }
